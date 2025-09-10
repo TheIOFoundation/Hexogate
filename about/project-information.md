@@ -1,5 +1,5 @@
 ---
-icon: square-info
+icon: circle-info
 ---
 
 # Project Information

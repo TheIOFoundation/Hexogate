@@ -1,2 +1,6 @@
+---
+icon: star
+---
+
 # Introduction
 

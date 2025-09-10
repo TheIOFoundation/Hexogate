@@ -11,8 +11,10 @@
 * [Get Involved](about/get-involved.md)
 * [Support Us](about/support-us.md)
 * [Partners](about/partners.md)
+* [Awards](about/awards.md)
+* [Media Archive](about/media-archive.md)
 * [Media Kit](about/media-kit.md)
-* [Page 1](about/page-1.md)
+* [Frequently Asked Questions](about/frequently-asked-questions.md)
 
 ## Research
 
